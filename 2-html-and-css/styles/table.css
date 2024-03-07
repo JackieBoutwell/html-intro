@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+
+td , th {
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+}
